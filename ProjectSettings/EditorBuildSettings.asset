@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Castle.unity
+    guid: 12f1df99fb81dc84880baa366394e27d
+  - enabled: 0
+    path: Assets/Scenes/FPS.unity
+    guid: d8f1403be3a325f45ab58c78ab7bc3fd
+  - enabled: 1
+    path: Assets/Scenes/Castle_02.unity
+    guid: 9bf892efcc8d82245a26a15fb8b1adf3
+  m_configObjects: {}
